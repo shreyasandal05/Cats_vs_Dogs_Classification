@@ -32,7 +32,7 @@ The three important neural networks that forms the basis for most pre-trained mo
 
 Introduced to solve problems related to image data. For example, Let us consider a neural network that identifies a bird.
 
-![alt text](D:\Project\Convolutional_Neural_Network_to_identify_the_image_of_a_bird.png"CNN_to_identify_a_bird")
+![alt text](https://github.com/shreyasandal05/Cats_vs_Dogs_Classification/blob/main/Convolutional_Neural_Network_to_identify_the_image_of_a_bird.png"CNN_to_identify_a_bird")
 
 A basic neural network consists of an _input layer_, which is just data in numerical form, followed by a _hidden layer_. If we have two or more hidden layer we get a deep neural network. More hidden layers allows us to learn non-linear relationships between input and putput layer.
 
